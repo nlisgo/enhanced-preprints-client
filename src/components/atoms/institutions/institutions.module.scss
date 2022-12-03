@@ -1,8 +1,14 @@
 @use "../../../sass/mixins";
+@use "../../../sass/settings";
 @use "../../../sass/typography";
 
 .institutions {
   @include mixins.margin(24, "bottom");
+  display: none;
+
+  @media only all and (min-width: settings.$breakpoint-medium) {
+    display: block;
+  }
 }
 
 .institutions-list {
