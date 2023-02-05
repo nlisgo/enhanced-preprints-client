@@ -8,14 +8,14 @@
         "timeline": [
           {
             "name": "Reviewed Preprint posted",
-            "date": "2022-10-20"
+            "date": ""
           },
           {
-            "name": "Posted to bioRxiv",
+            "name": "Posted to ",
             "date": "2022-06-26",
             "link": {
               "url": "https://www.biorxiv.org/content/10.1101/2022.06.24.497502",
-              "text": "Go to bioRxiv"
+              "text": "Go to "
             }
           },
           {
@@ -24,9 +24,9 @@
           }
         ]
       },
-      "pdfUrl": "https://github.com/elifesciences/enhanced-preprints-data/raw/master/data/10.1101/2022.06.24.497502/2022.06.24.497502.pdf",
       "msas": [
-        "Cell Biology"
+        "Genetics and Genomics",
+        "Neuroscience"
       ]
     },
     "10.1101/2022.07.26.501569": {
@@ -209,7 +209,7 @@
     "80494": {
       "msid": "80494",
       "version": "1",
-      "publishedYear": 2022,
+      "publishedYear": 0,
       "preprintDoi": "10.1101/2022.06.24.497502"
     },
     "80729": {
@@ -251,7 +251,7 @@
     "80494v1": {
       "msid": "80494",
       "version": "1",
-      "publishedYear": 2022,
+      "publishedYear": 0,
       "preprintDoi": "10.1101/2022.06.24.497502"
     },
     "81926v1": {
